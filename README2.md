@@ -3,5 +3,4 @@
 
 ## About
 This is my first project on GitHub. Have fun!
-
-“Initial commit”
+Have Fun in The Sun !
