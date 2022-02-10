@@ -13,3 +13,4 @@ function main() {
    // Return value 
    return 0; 
 }
+main()

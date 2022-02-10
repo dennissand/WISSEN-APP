@@ -1,4 +1,5 @@
-main { 
-   background-color: whitesmoke; 
-   font-size: 13pt; 
+body{
+   background-color: black;
+   font-size: 13pt;
+   color: darkorange;
 }
